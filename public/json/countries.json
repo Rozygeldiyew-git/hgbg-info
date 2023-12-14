@@ -1,0 +1,42 @@
+[
+    {
+        "country_name": "Turkiye",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "turkiye"
+    },
+    {
+        "country_name": "Russia",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "russia"
+    },
+    {
+        "country_name": "UAE",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "uae"
+    },
+    {
+        "country_name": "UK",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "uk"
+    },
+    {
+        "country_name": "China",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "china"
+    },
+    {
+        "country_name": "Germany",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "germany"
+    },
+    {
+        "country_name": "India",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "india"
+    },
+    {
+        "country_name": "Thailand",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "img_name": "thailand"
+    }
+]
