@@ -38,12 +38,11 @@ const Homepage = () => {
                     {
                         countriesJson.map((item, idx) => (
                             <Link to={item.img_name} className="border rounded-lg flex h-36 active:bg-slate-100 cursor-pointer bg-slate-50/50" key={idx}>
-                                <div className='p-3 w-1/2'>
+                                <div className='p-3 w-1/2 flex items-center justify-center'>
                                     <h1 className="font-semibold text-4xl">{item.country_name}</h1>
-                                    <span className="text-sm">{item.description}</span>
                                 </div>
                                 <div className='w-1/2 h-full'>
-                                    <img src={`/images/${item.img_name}-flag.gif`} alt="Turkiye" className='h-full object-cover' />
+                                    <img src={`/images/${item.img_name}-flag.gif`} alt="Turkiye" className='w-full h-full object-cover' />
                                 </div>
                             </Link>
                         ))
