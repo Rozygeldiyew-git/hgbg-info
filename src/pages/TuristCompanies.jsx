@@ -6,7 +6,7 @@ import turCompaniesListJson from '../../public/json/turist_companies'
 const TuristCompanies = () => {
 
     return (
-        <main className="bg-[url('/with-girl.jpg')] bg-no-repeat bg-cover h-auto bg-opacity-5">
+        <main className="bg-[url('/second-bg.jpg')] bg-no-repeat bg-cover h-auto bg-opacity-5 brightness-110">
             <div className="container mx-auto">
 
 

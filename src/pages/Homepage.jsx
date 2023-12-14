@@ -3,14 +3,14 @@ import countriesJson from '../../public/json/countries.json'
 
 const Homepage = () => {
     return (
-        <main className="bg-[url('/airplane-background.jpg')] bg-no-repeat bg-cover h-screen ">
+        <main className="bg-[url('/back-airplane.jpg')] brightness-110 bg-no-repeat bg-cover h-screen ">
             <div className="container mx-auto " >
 
 
                 {/* Navbar */}
                 <div className="navbar ">
-                    <div className="navbar-start text-xl text-brand_color font-bold flex gap-3">
-                        <img src="/green_logo.webp" alt="Logo" />
+                    <div className="navbar-start text-xl text-white font-bold flex gap-3">
+                        <img src="/green_logo.webp" alt="Logo" className='bg-base-100 rounded-full'  />
                         <span>
                             Howa gatnawlarynyň  <br /> Baş gullugy
                         </span>
