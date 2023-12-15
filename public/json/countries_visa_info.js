@@ -1817,7 +1817,64 @@ Tranzit wizalary üçin zerur resminamalar:
             11. И переводы выписки.`
         },
         source_link: "ankara.thaiembassy.org"
-    }
+    },
+    {
+        id: 'vietnam',
+        name: {
+            "tm": "Wýetnam",
+            "en": "Vietnam",
+            "ru": "Вьетнам"
+        },
+        content: {
+            tm: ``,
+            en:  ``,
+            ru: ``
+        },
+        source_link: ""
+    },
+    {
+        id: 'italy',
+        name: {
+            "tm": "Italiýa",
+            "en": "Italy",
+            "ru": "Италия"
+        },
+        content: {
+            tm: ``,
+            en:  ``,
+            ru: ``
+        },
+        source_link: ""
+    },
+    {
+        id: 'malaysia',
+        name: {
+            tm: "Malaziýa",
+            en: "Malaysia",
+            ru: "Малайзия"
+        },
+        content: {
+            tm: ``,
+            en:  ``,
+            ru: ``
+        },
+        source_link: ""
+    },
+    {
+        id: 'saudi-arabia',
+        name: {
+            tm: "Saud Arabystan",
+            en: "Saudi Arabia",
+            ru: "Саудовская Аравия"
+        },
+        content: {
+            tm: ``,
+            en:  ``,
+            ru: ``
+        },
+        source_link: ""
+    },
+
 ]
 
 

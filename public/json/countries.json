@@ -5,7 +5,6 @@
             "en": "Turkiye",
             "ru": "Турция"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "turkiye"
     },
     {
@@ -14,7 +13,6 @@
             "en": "Russia",
             "ru": "Россия"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "russia"
     },
     {
@@ -23,25 +21,22 @@
             "en": "UAE",
             "ru": "ОАЭ"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "uae"
     },
     {
-        "country_name":  {
+        "country_name": {
             "tm": "Beýik Britaniýa",
             "en": "UK",
             "ru": "Великобритания"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "uk"
     },
     {
-        "country_name":  {
+        "country_name": {
             "tm": "Hytaý",
             "en": "China",
             "ru": "Китай"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "china"
     },
     {
@@ -50,7 +45,6 @@
             "en": "Germany",
             "ru": "Германия"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "germany"
     },
     {
@@ -59,16 +53,46 @@
             "en": "India",
             "ru": "Индия"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "india"
     },
     {
-        "country_name":{
+        "country_name": {
             "tm": "Taýland",
             "en": "Thailand",
             "ru": "Таиланд"
         },
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "thailand"
+    },
+    {
+        "country_name": {
+            "tm": "Wýetnam",
+            "en": "Vietnam",
+            "ru": "Вьетнам"
+        },
+        "img_name": "vietnam"
+    },
+    {
+        "country_name": {
+            "tm": "Italiýa",
+            "en": "Italy",
+            "ru": "Италия"
+        },
+        "img_name": "italy"
+    },
+    {
+        "country_name": {
+            "tm": "Malaziýa",
+            "en": "Malaysia",
+            "ru": "Малайзия"
+        },
+        "img_name": "malaysia"
+    },
+    {
+        "country_name": {
+            "tm": "Saud Arabystan",
+            "en": "Saudi Arabia",
+            "ru": "Саудовская Аравия"
+        },
+        "img_name": "saudi-arabia"
     }
 ]

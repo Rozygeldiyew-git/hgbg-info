@@ -12,7 +12,7 @@ const TuristCompanies = () => {
     }
 
     return (
-        <main className="bg-[url('/second-bg.jpg')] bg-no-repeat bg-cover h-screen bg-opacity-5 brightness-110 overflow-y-auto">
+        <main className="bg-[url('/second-bg.jpg')] bg-no-repeat bg-cover h-screen bg-opacity-5 brightness-110 overflow-y-auto remove-scrollbar">
             <div className="container mx-auto">
 
 

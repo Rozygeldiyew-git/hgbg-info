@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import countriesJson from '../../public/json/countries.json'
 import { useTranslation } from "react-i18next";
+import LazyLoadedImage from '../components/LazyLoadImage'
 
 
 const Homepage = () => {
@@ -14,10 +15,10 @@ const Homepage = () => {
 
 
     return (
-        <main className="bg-[url('/back-airplane.jpg')] brightness-110 bg-no-repeat bg-cover h-screen ">
-            <div className=" flex justify-center ">
+        <main className="bg-[url('/back-airplane.jpg')] brightness-110 bg-no-repeat bg-cover w-full h-screen overflow-y-auto remove-scrollbar  ">
+            <div className=" flex justify-center overflow-y-auto">
                 {/* Navbar */}
-                <div className="navbar w-11/12">
+                <div className="navbar w-11/12 ">
                     <div className="navbar-start text-xl text-white font-bold flex gap-3">
                         <img src="/green_logo.webp" alt="Logo" className='bg-base-100 rounded-full' />
                         <span>
@@ -62,7 +63,9 @@ const Homepage = () => {
                                     <h1 className="font-semibold text-2xl">{i18n.language === 'tm' ? item.country_name.tm : i18n.language === 'en' ? item.country_name.en : item.country_name.ru}</h1>
                                 </div>
                                 <div className='w-1/2 h-full'>
-                                    <img src={`/images/${item.img_name}-flag.gif`} alt={item.country_name.tm} className='w-full h-full object-cover rounded-tr-lg rounded-br-lg' />
+                                    {/* <img src={`/images/${item.img_name}-flag.gif`} alt={item.country_name.tm} className='w-full h-full object-cover rounded-tr-lg rounded-br-lg' /> */}
+                                    <LazyLoadedImage src={`/images/${item.img_name}-flag.gif`} alt={item.country_name.tm}  className='w-full h-full object-cover rounded-tr-lg rounded-br-lg' />
+
                                 </div>
                             </Link>
                         ))
