@@ -68,7 +68,7 @@ const Country = () => {
                         <p>
                             {t('source_link_text')}
                         </p>
-                        <a href={countryVisaInfo.source_link} className="text-blue-700">{countryVisaInfo.source_link}</a>
+                        <p className="text-blue-700">{countryVisaInfo.source_link}</p>
                     </div>
 
                 </div>

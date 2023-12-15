@@ -407,7 +407,7 @@ Tranzit wizalary üçin zerur resminamalar:
             Внимание-2: Для получения дополнительной информации о визах в Туркменистан рекомендуем посетить официальный сайт Иммиграционной службы Туркменистана.        
             `
         },
-        source_link: "https://turkey.tmembassy.gov.tm/tk/consular-services/konsullyk-hyzmatlary/visa-requirements"
+        source_link: "turkey.tmembassy.gov.tm"
     },
     {
         id: "russia",
@@ -805,7 +805,7 @@ Tranzit wizalary üçin zerur resminamalar:
             </div>
         </div>`
         },
-        source_link: "https://russia.tmembassy.gov.tm/tk/consular-services/obshchaya-informatsiya-o-pravilakh-polucheniya-vizy-v-turkmenistan"
+        source_link: "russia.tmembassy.gov.tm"
     },
     {
         id: 'uae',
@@ -896,7 +896,7 @@ Tranzit wizalary üçin zerur resminamalar:
             
             `
         },
-        source_link: "https://uae.tmembassy.gov.tm/tk/consular-services/practical-information-on-procedure-to-obtain-turkmenistan-entry-visa"
+        source_link: "uae.tmembassy.gov.tm"
     },
     {
         id: "uk",
@@ -1126,7 +1126,7 @@ Tranzit wizalary üçin zerur resminamalar:
             
             `
         },
-        source_link: "https://uk.tmembassy.gov.tm/tk/consular-services/visa-info"
+        source_link: "uk.tmembassy.gov.tm"
     },
     {
         id: 'china',
@@ -1211,7 +1211,7 @@ Tranzit wizalary üçin zerur resminamalar:
         Полгода – однократная виза – обычная 205$ (срочная 395$), многократная виза – обычная 275$ (срочная 535$)
         Двенадцать месяцев – однократная виза – обычная 385$ (срочная 755$), многократная виза – обычная 515$ (срочная 1015$)`
         },
-        source_link: "https://china.tmembassy.gov.tm/tk/consular-services/wiza-resmilesdirmek-ucin-gerek-resminamalaryn-sanawy"
+        source_link: "china.tmembassy.gov.tm"
     },
     {
         id: 'germany',
@@ -1390,7 +1390,7 @@ Tranzit wizalary üçin zerur resminamalar:
             </div>
         </div>`
         },
-        source_link: "https://germany.tmembassy.gov.tm/tk/consular-services/visumangelegenheiten/visaformular"
+        source_link: "germany.tmembassy.gov.tm"
     },
     {
         id: 'india',
@@ -1757,7 +1757,7 @@ Tranzit wizalary üçin zerur resminamalar:
             
             `
         },
-        source_link: "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan"
+        source_link: "india.tmembassy.gov.tm"
     },
     {
         id: 'thailand',
@@ -1816,7 +1816,7 @@ Tranzit wizalary üçin zerur resminamalar:
             
             11. И переводы выписки.`
         },
-        source_link: "https://ankara.thaiembassy.org/en/page/cate-8683-visa-consular-services?menu=5d7717d715e39c2f34004f2b"
+        source_link: "ankara.thaiembassy.org"
     }
 ]
 
