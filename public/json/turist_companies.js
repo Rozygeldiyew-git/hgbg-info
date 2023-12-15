@@ -51,7 +51,7 @@ const tur_companies_list = [
     },
     {
         name: `"Haýyrly syýahat" syýahatçylyk  kärhanasy `,
-        phone_numbers: "+99361264664",
+        phone_numbers: "+99361264664, +99362179996",
         address: "Oguzhan köçesi, jaý 211"
     },
     {

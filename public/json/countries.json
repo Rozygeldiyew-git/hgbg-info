@@ -1,41 +1,73 @@
 [
     {
-        "country_name": "Turkiye",
+        "country_name": {
+            "tm": "Türkiýe",
+            "en": "Turkiye",
+            "ru": "Турция"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "turkiye"
     },
     {
-        "country_name": "Russia",
+        "country_name": {
+            "tm": "Russiýa",
+            "en": "Russia",
+            "ru": "Россия"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "russia"
     },
     {
-        "country_name": "UAE",
+        "country_name": {
+            "tm": "BAE",
+            "en": "UAE",
+            "ru": "ОАЭ"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "uae"
     },
     {
-        "country_name": "UK",
+        "country_name":  {
+            "tm": "Beýik Britaniýa",
+            "en": "UK",
+            "ru": "Великобритания"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "uk"
     },
     {
-        "country_name": "China",
+        "country_name":  {
+            "tm": "Hytaý",
+            "en": "China",
+            "ru": "Китай"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "china"
     },
     {
-        "country_name": "Germany",
+        "country_name": {
+            "tm": "Germaniýa",
+            "en": "Germany",
+            "ru": "Германия"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "germany"
     },
     {
-        "country_name": "India",
+        "country_name": {
+            "tm": "Hindistan",
+            "en": "India",
+            "ru": "Индия"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "india"
     },
     {
-        "country_name": "Thailand",
+        "country_name":{
+            "tm": "Taýland",
+            "en": "Thailand",
+            "ru": "Таиланд"
+        },
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         "img_name": "thailand"
     }

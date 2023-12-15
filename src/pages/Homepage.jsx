@@ -1,7 +1,18 @@
 import { Link } from 'react-router-dom'
 import countriesJson from '../../public/json/countries.json'
+import { useTranslation } from "react-i18next";
+
 
 const Homepage = () => {
+
+
+    const { i18n, t } = useTranslation()
+    const changeLanuage = (value) => {
+       i18n.changeLanguage(value);
+       localStorage.setItem('language', value);
+    }
+
+
     return (
         <main className="bg-[url('/back-airplane.jpg')] brightness-110 bg-no-repeat bg-cover h-screen ">
             <div className="container mx-auto " >
@@ -19,15 +30,15 @@ const Homepage = () => {
 
                     <div className="navbar-end">
                         <Link to='/turist-companies' className='btn btn-sm mr-10 '>
-                            Syýahatçylyk kärhanalary
+                            {t('turism_companies')}
                         </Link>
                         <span className='font-semibold mx-2'>
-                            Dili:
+                        {t('lang')}
                         </span>
                         <div className='flex gap-3'>
-                            <img src="/flags/tm.jpg" alt="Turkmen" className='w-10 cursor-pointer active:-scale-50 transition-transform' />
-                            <img src="/flags/en.jpg" alt="English" className='w-10 cursor-pointer active:-scale-50 transition-transform' />
-                            <img src="/flags/ru.jpg" alt="Russian" className='w-10 cursor-pointer active:-scale-50 transition-transform' />
+                            <img src="/flags/tm.jpg" alt="Turkmen" className='w-10 h-6 cursor-pointer ' onClick={() => changeLanuage('tm')} />
+                            <img src="/flags/en.jpg" alt="English" className='w-10 cursor-pointer '  onClick={() => changeLanuage('en')}/>
+                            <img src="/flags/ru.jpg" alt="Russian" className='w-10 cursor-pointer '  onClick={() => changeLanuage('ru')} />
                         </div>
                     </div>
                 </div>
@@ -39,10 +50,10 @@ const Homepage = () => {
                         countriesJson.map((item, idx) => (
                             <Link to={item.img_name} className="border rounded-lg flex h-36 active:bg-slate-100 cursor-pointer bg-slate-50/50" key={idx}>
                                 <div className='p-3 w-1/2 flex items-center justify-center'>
-                                    <h1 className="font-semibold text-4xl">{item.country_name}</h1>
+                                    <h1 className="font-semibold text-2xl">{i18n.language === 'tm' ? item.country_name.tm : i18n.language === 'en' ? item.country_name.en : item.country_name.ru }</h1>
                                 </div>
                                 <div className='w-1/2 h-full'>
-                                    <img src={`/images/${item.img_name}-flag.gif`} alt="Turkiye" className='w-full h-full object-cover' />
+                                    <img src={`/images/${item.img_name}-flag.gif`} alt={item.country_name.tm} className='w-full h-full object-cover rounded-tr-lg rounded-br-lg' />
                                 </div>
                             </Link>
                         ))
