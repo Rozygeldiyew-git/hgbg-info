@@ -5,5 +5,7 @@
     "back": "Back",
     "turfirm_col_name": "Tourism company name",
     "phone_numbers": "Phone numbers",
-    "address": "Address"
+    "address": "Address",
+    "rules_of_visa_formulation": "Rules for visa formalization",
+    "source_link_text": "For full information: "
 }

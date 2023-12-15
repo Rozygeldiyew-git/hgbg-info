@@ -406,7 +406,8 @@ Tranzit wizalary üçin zerur resminamalar:
             Внимание-1: консульский сбор за визовое обслуживание должен быть оплачен в Консульском отделе в день подачи документов. В случае аннулирования оплата не возвращается.
             Внимание-2: Для получения дополнительной информации о визах в Туркменистан рекомендуем посетить официальный сайт Иммиграционной службы Туркменистана.        
             `
-        }
+        },
+        source_link: "https://turkey.tmembassy.gov.tm/tk/consular-services/konsullyk-hyzmatlary/visa-requirements"
     },
     {
         id: "russia",
@@ -803,7 +804,8 @@ Tranzit wizalary üçin zerur resminamalar:
     <p>Информация предоставлена Консульским отделом Посольства Туркменистана в Российской Федерации.</p>
             </div>
         </div>`
-        }
+        },
+        source_link: "https://russia.tmembassy.gov.tm/tk/consular-services/obshchaya-informatsiya-o-pravilakh-polucheniya-vizy-v-turkmenistan"
     },
     {
         id: 'uae',
@@ -893,7 +895,8 @@ Tranzit wizalary üçin zerur resminamalar:
             
             
             `
-        }
+        },
+        source_link: "https://uae.tmembassy.gov.tm/tk/consular-services/practical-information-on-procedure-to-obtain-turkmenistan-entry-visa"
     },
     {
         id: "uk",
@@ -1122,7 +1125,8 @@ Tranzit wizalary üçin zerur resminamalar:
             
             
             `
-        }
+        },
+        source_link: "https://uk.tmembassy.gov.tm/tk/consular-services/visa-info"
     },
     {
         id: 'china',
@@ -1206,7 +1210,8 @@ Tranzit wizalary üçin zerur resminamalar:
         Три месяца – однократная виза – обычная 115$ (срочная 215$), многократная виза – обычная 155$ (срочная 295$)
         Полгода – однократная виза – обычная 205$ (срочная 395$), многократная виза – обычная 275$ (срочная 535$)
         Двенадцать месяцев – однократная виза – обычная 385$ (срочная 755$), многократная виза – обычная 515$ (срочная 1015$)`
-        }
+        },
+        source_link: "https://china.tmembassy.gov.tm/tk/consular-services/wiza-resmilesdirmek-ucin-gerek-resminamalaryn-sanawy"
     },
     {
         id: 'germany',
@@ -1384,7 +1389,8 @@ Tranzit wizalary üçin zerur resminamalar:
     
             </div>
         </div>`
-        }
+        },
+        source_link: "https://germany.tmembassy.gov.tm/tk/consular-services/visumangelegenheiten/visaformular"
     },
     {
         id: 'india',
@@ -1750,7 +1756,8 @@ Tranzit wizalary üçin zerur resminamalar:
             
             
             `
-        }
+        },
+        source_link: "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan"
     },
     {
         id: 'thailand',
@@ -1808,7 +1815,8 @@ Tranzit wizalary üçin zerur resminamalar:
             10. Если заявителю меньше 18 лет, и выезжает с одним из родителей либо с опекуном, то нотариально заверенное согласие одного обоих родителей.
             
             11. И переводы выписки.`
-        }
+        },
+        source_link: "https://ankara.thaiembassy.org/en/page/cate-8683-visa-consular-services?menu=5d7717d715e39c2f34004f2b"
     }
 ]
 

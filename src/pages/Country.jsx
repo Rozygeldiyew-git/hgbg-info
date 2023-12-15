@@ -23,8 +23,8 @@ const Country = () => {
 
     const divStyle = {
         backgroundImage: `url('/background-images/${countryVisaInfo.id}.webp')`,
-      };
-    
+    };
+
     return (
         <main className={`bg-no-repeat bg-cover bg-center h-screen bg-opacity-5  overflow-y-auto`} style={divStyle}>
 
@@ -51,9 +51,9 @@ const Country = () => {
                             {t('lang')}
                         </span>
                         <div className='flex gap-3'>
-                            <img src="/flags/tm.jpg" alt="Turkmen" className='w-10 cursor-pointer active:-scale-50 transition-transform' onClick={() => changeLanuage('tm')} />
-                            <img src="/flags/en.jpg" alt="English" className='w-10 cursor-pointer active:-scale-50 transition-transform' onClick={() => changeLanuage('en')} />
-                            <img src="/flags/ru.jpg" alt="Russian" className='w-10 cursor-pointer active:-scale-50 transition-transform' onClick={() => changeLanuage('ru')} />
+                            <img src="/flags/tm.jpg" alt="Turkmen" className='w-10 cursor-pointer' onClick={() => changeLanuage('tm')} />
+                            <img src="/flags/en.jpg" alt="English" className='w-10 cursor-pointer' onClick={() => changeLanuage('en')} />
+                            <img src="/flags/ru.jpg" alt="Russian" className='w-10 cursor-pointer' onClick={() => changeLanuage('ru')} />
                         </div>
                     </div>
                 </div>
@@ -63,6 +63,14 @@ const Country = () => {
                 <div className={`w-8/12 p-6 rounded-xl font-semibold mx-auto my-14 ${typeof content !== 'object' && 'whitespace-pre-line'} bg-slate-50/80 `}>
 
                     {content}
+
+                    <div>
+                        <p>
+                            {t('source_link_text')}
+                        </p>
+                        <a href={countryVisaInfo.source_link} className="text-blue-700">{countryVisaInfo.source_link}</a>
+                    </div>
+
                 </div>
             </div>
         </main>
