@@ -26,7 +26,7 @@ const Country = () => {
     };
 
     return (
-        <main className={`bg-no-repeat bg-cover bg-center h-screen bg-opacity-5  overflow-y-auto`} style={divStyle}>
+        <main className='bg-no-repeat bg-cover bg-center h-screen bg-opacity-5  overflow-y-auto remove-scrollbar' style={divStyle}>
 
             {/* Navbar */}
             <div className=" bg-slate-50/80">
