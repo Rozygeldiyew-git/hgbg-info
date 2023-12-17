@@ -1193,8 +1193,8 @@ Tranzit wizalary üçin zerur resminamalar:
                 <p>&nbsp;</p>
     
             </div>
-        </div>`, 
-        ru: `Китай
+        </div>`,
+            ru: `Китай
 
         Виза
         Заполните анкету на получение визы (прилагается)
@@ -1780,7 +1780,7 @@ Tranzit wizalary üçin zerur resminamalar:
             10. Arza beriji 18 ýaşdan kiçi bolsa we ene-atasynyň biri ýa-da hossary bilen syýahat eden bolsa, onda ene-atanyň bir / ikisiniň hem kepillendiriş edarasy tarapyndan tassyklanan razyçylygy.
             11. Göçürmäniň terjimeleri.
             `,
-            en:  `<div _ngcontent-ng-c2495420825="" class="markdown markdown-main-panel" dir="ltr" style="--animation-duration: 600ms;"><p data-sourcepos="3:1-3:39"><strong>List of documents for Thailand visa</strong></p><ol data-sourcepos="5:1-16:0">
+            en: `<div _ngcontent-ng-c2495420825="" class="markdown markdown-main-panel" dir="ltr" style="--animation-duration: 600ms;"><p data-sourcepos="3:1-3:39"><strong>List of documents for Thailand visa</strong></p><ol data-sourcepos="5:1-16:0">
             <li data-sourcepos="5:1-5:12">Passport.</li>
             <li data-sourcepos="6:1-6:48">Copy of the internal passport (active pages).</li>
             <li data-sourcepos="7:1-7:26">Copy of old Thai visas.</li>
@@ -1826,11 +1826,113 @@ Tranzit wizalary üçin zerur resminamalar:
             "ru": "Вьетнам"
         },
         content: {
-            tm: ``,
-            en:  ``,
-            ru: ``
+            tm: `Syýahatçylyk wizasy (DL):
+
+            Talaplar:
+            Doldurylan wiza anketasy (onlaýn ýa-da Wýetnam ilçihanasynda / konsullygynda).
+            Iň azyndan 6 aýlyk güýji bolan asyl pasport.
+            Pasport ölçegli suratlar (köplenç 2).
+            Wiza tölegi
+            Syýahat ýoly ýa-da Wýetnamda ýaşamagyň subutnamasy.
+            Möhleti: Adatça 30 gün, ýöne üýtgäp biler.
+            Iş wizasy (DN):
+            
+            Talaplar:
+            Wýetnam kompaniýasynyň ýa-da hemaýatkäriň çakylyk haty.
+            Wiza üçin anketany doldurmak
+            Sufficienteterlik güýji bolan asyl pasport.
+            Pasport ölçegli suratlar
+            Wiza tölegi
+            Möhleti: üýtgeýär, köplenç 6 aýa çenli.
+            Gelmek üçin wiza (VOA):
+            
+            Talaplar:
+            Wýetnamda ýerleşýän syýahatçylyk gullugy ýa-da hyzmaty arkaly alnan tassyklama haty.
+            Giriş we çykyş formasy (edara tarapyndan berilýär).
+            Iň azyndan 6 aýlyk pasport.
+            Pasport ölçegli suratlar
+            Marka tölegi (howa menziline gelensoň tölenýär).
+            Möhleti: Adatça 30 gün, uzaldylyp bilner.
+            Elektron wiza:
+            
+            Talaplar:
+            Resmi Wýetnam elektron wiza web sahypasy arkaly onlaýn ýüz tutuň.
+            Iň azyndan 6 aýlyk güýji bolan pasport.
+            Pasport ölçegli suratlar (sanly göçürme).
+            Wiza tölegini tölemek (onlaýn).
+            Möhleti: Adatça 30 gün, ýekeje giriş.`,
+            en: `Tourist Visa (DL):
+
+            Requirements:
+            Completed visa application form (available online or at the Vietnamese embassy/consulate).
+            Original passport with at least 6 months validity.
+            Passport-sized photos (usually 2).
+            Visa fee payment.
+            Travel itinerary or proof of accommodation in Vietnam.
+            Validity: Typically 30 days, but can vary.
+            Business Visa (DN):
+            
+            Requirements:
+            Invitation letter from a Vietnamese company or sponsor.
+            Completed visa application form.
+            Original passport with sufficient validity.
+            Passport-sized photos.
+            Visa fee payment.
+            Validity: Varies, often up to 6 months.
+            Visa on Arrival (VOA):
+            
+            Requirements:
+            Approval letter obtained through a Vietnam-based travel agency or service.
+            Entry and exit form (provided by the agency).
+            Passport with at least 6 months validity.
+            Passport-sized photos.
+            Stamping fee (payable upon arrival at the airport).
+            Validity: Usually 30 days, extendable.
+            E-visa:
+            
+            Requirements:
+            Apply online through the official Vietnam e-visa website.
+            Valid passport with at least 6 months validity.
+            Passport-sized photos (digital copy).
+            Visa fee payment (online).
+            Validity: Typically 30 days, single entry.`,
+            ru: `Туристическая виза (DL):
+
+            Требования:
+            Заполненная анкета на получение визы (доступна онлайн или во вьетнамском посольстве/консульстве).
+            Оригинал паспорта со сроком действия не менее 6 месяцев.
+            Фотографии паспортного размера (обычно 2).
+            Оплата визового сбора.
+            Маршрут путешествия или подтверждение проживания во Вьетнаме.
+            Срок действия: Обычно 30 дней, но может варьироваться.
+            Деловая виза (DN):
+            
+            Требования:
+            Письмо-приглашение от вьетнамской компании или спонсора.
+            Заполненная анкета на получение визы.
+            Оригинал паспорта с достаточным сроком действия.
+            Фотографии паспортного размера.
+            Оплата визового сбора.
+            Срок действия: варьируется, часто до 6 месяцев.
+            Виза по прибытии (VOA):
+            
+            Требования:
+            Письмо-подтверждение, полученное через туристическое агентство или службу во Вьетнаме.
+            Форма входа и выхода (предоставляется агентством).
+            Паспорт со сроком действия не менее 6 месяцев.
+            Фотографии паспортного размера.
+            Гербовый сбор (оплачивается по прибытии в аэропорт).
+            Срок действия: Обычно 30 дней с возможностью продления.
+            Электронная виза:
+            
+            Требования:
+            Подайте заявку онлайн через официальный сайт электронной визы во Вьетнам.
+            Действительный паспорт со сроком действия не менее 6 месяцев.
+            Фотографии паспортного размера (цифровая копия).
+            Оплата визового сбора (онлайн).
+            Срок действия: Обычно 30 дней, однократная въезда.`
         },
-        source_link: ""
+        source_link: "vietnamvisa.org.vn/requirements/turkmenistan/"
     },
     {
         id: 'italy',
@@ -1840,11 +1942,167 @@ Tranzit wizalary üçin zerur resminamalar:
             "ru": "Италия"
         },
         content: {
-            tm: ``,
-            en:  ``,
-            ru: ``
+            tm: `Wiza almak tertibi
+            SYÝAHATÇY  WIZA
+            
+            Syýahatçylyk wizasyny talap etmek üçin ýüz tutýanlardan Italiýadaky ýa-da Türkmenistandaky syýahatçylyk agentligine ýüz tutmagy haýyş edilýär (web sahypasynda göçürilmeli sanaw). Ikinjisi, Türkmenistanyň Döwlet Migrasiýa Gullugyndan “Çakylyk hatyny” almaga kömek edýär. Şeýle hat ilçihananyň wiza bermegi üçin esas bolup hyzmat edýär.
+            
+            Syýahatçylyk wizasyny almak üçin resminamalaryň sanawy:
+            
+            Çakylyk haty (ýokarda görkezilen);
+            Ilçihana iberilen hat, aşakdaky maglumatlary öz içine alýar: (ýa-da arza beriji ýa-da Italiýadaky syýahat wekili tarapyndan ýazylan)
+            Familiýasy we ady;
+            Habarlaşmak üçin maglumatlar: telefon belgisi we e-poçta;
+            Gelmegiň we gidişiň takyk senesi;
+            Islegiň görnüşi: gyssagly ýa-da gyssagly däl (töleg üýtgeşmelerine serediň)
+            3. Pasportyň reňkli göçürmesi;
+            
+            4. 1 (bir) wiza anketasy, ýelimlenen surat bilen (web sahypasyna göçürip almaly)
+            
+            Uedelimlenen suratly 1 anketa (web sahypasyndan göçürip almaly; boş ýer "gözegçi" iş berijiniň / arza berijiniň işgärler bölüminiň işgäri tarapyndan gol çekilmeli).
+            3 aýdan köp wagtlap wiza talap edilen halatynda, adamda immun ýetmezçiligi wirusyny (AIW) ýüze çykarmak üçin barlagda lukmançylyk şahadatnamasy bolmaly.
+            GEÇIRIL V VN WISA
+            
+            Tranzit wizasyny almak üçin resminamalaryň sanawy
+            
+            1. Ilçihananyň aşakdaky maglumatlary öz içine alýan haty: (arza beriji ýa-da Italiýadaky syýahat wekili tarapyndan ýazylan)
+            
+            Familiýasy we ady;
+            Habarlaşmak üçin maglumatlar: telefon belgisi we e-poçta;
+            Gelmegiň we gidişiň takyk senesi (üstaşyr üçin iň köp 5 gün, mysal üçin 10-14-nji aprel däl-de, 10-15-nji aprel).
+            Serhetleşýän şäherleri (giriş we çykyş nokatlary) görkezýän jikme-jik ugur: mysal üçin Saras - Mary - Farap)
+            Islegiň görnüşi: gyssagly ýa-da gyssagly däl (töleg üýtgeşmelerine serediň)
+            Placeeri, senesi we goly
+            2. Pasportyňyzdaky iki ýa-da has köp goňşy ýurduň wizalarynyň reňkli nusgalary: Türkmenistana girýän ýurduňyz, şeýle hem Türkmenistandan gitjek ýurduňyz;
+            
+            3. Pasportyňyzyň reňkli göçürmesi
+            
+            4. 1 (bir) wiza anketasy, ýelimlenen surat bilen öz wagtynda dolduryldy (web sahypasyna göçürip almaly).
+            
+            5. ýelimlenen suratly 1 (bir) anketa (web sahypasyna göçürip almaly); boşluk "gözegçi" iş beriji / arza berijiniň adam resurslary işgäri tarapyndan gol çekilmeli).
+            
+            6. Pasport (diňe wiza haýyşyňyz oňyn tassyklanandan soň berilmelidir)
+            
+            IŞ  WE MYHMAN WIZA:
+            
+            Iş we myhman wizalaryny almak isleýänler, ýokarda görkezilen resminamalary tabşyrmaly. Türkmenistanyň Döwlet Migrasiýa Gullugynyň çakylyk haty barada aýdylanda bolsa, muny Türkmenistanda çagyrýan kompaniýa ýa-da fiziki şahs talap etmeli.
+            
+            Töleg:
+            
+            Töleg ýewro görnüşinde edilmeli. Wiza bermedik ýagdaýynda wiza tölegleri yzyna gaýtarylmaýar.
+            
+            Serhetde berlen ýagdaýlarda töleg ilçihana däl-de, şol ýerde tölenmeli.
+            
+            Ilçihana diňe bank tölegini kabul edýär, nagt däl (wizaňyz e-poçta bilen tassyklanandan soň bank hasaby maglumatlaryny soraň). Şeýle edeniňizde, pul geçirmegiň atlaryny we sebäbini görkezmegiňizi haýyş edýäris.`,
+            en: `<div class="col-sm-6 px-4">
+            <h5 class="main-title semi-bold fs-3">Visa obtaining procedure</h5>
+            <div class="text-links text-justify fs-4 overflow-auto">
+                                        <p><strong>TOURIST VISA</strong></p>
+
+<p>In order to request tourist visa, applicants are kindly requested to contact a travel agency in Italy or Turkmenistan(list to be downloaded at the web-site). The latter assist in obtaining an&nbsp;<em>“Invitation Letter”</em>&nbsp;from the State Migration Service of Turkmenistan. Such a letter serves as a basis for the Embassy to issue a visa.</p>
+
+<p><a name="_Hlk500840622"><strong>The list of the documents for obtaining the </strong></a><strong>tourist visa:</strong></p>
+
+<ol>
+<li>Invitation letter (abovementioned);</li>
+<li>A letter addressed to the Embassy, containing the following information: (either written by the applicant or his/her travel representative in Italy)</li>
+</ol>
+
+<ul>
+<li>Surname and name;</li>
+<li>Contact details: phone number and e-mail;</li>
+<li>Exact dates of arrival and departure;</li>
+<li>Type of request: express or non-urgent (see payment variations)</li>
+</ul>
+
+<p>3.Colour copy of a passport;</p>
+
+<p>4. 1 (one) visa application form duly completed (to be downloaded at the web-site) with a glued photo</p>
+
+<ol>
+<li>1 questionnaire with a glued photo (to be downloaded at the web-site; a space&nbsp;<em>«supervisor»</em>&nbsp;must be signed by an employer/Human Resources officer of the applicant).</li>
+<li>In case of request for&nbsp;a visa for a period longer than 3 months, you must have a medical certificate on the examination for detection of human immunodeficiency virus (HIV).</li>
+</ol>
+
+<p><strong>TRANSIT VISA</strong></p>
+
+<p><strong>The list of the documents for obtaining the transit visa </strong></p>
+
+<p>1. A letter addressed to the Embassy's containing the following information: (either written by the applicant or his/her travel representative in Italy)</p>
+
+<ul>
+<li>Surname and name;</li>
+<li>Contact details: phone number and e-mail;</li>
+<li>Exact dates of arrival and departure (max. 5 days for transit, for ex., 10-14 April, and not 10-15 April).</li>
+<li>Detailed route, indicating bordering cities (entry and exit points): for example, Sarahs - Mary - Farap)</li>
+<li>Type of request: express or non-urgent (see payment variations)</li>
+<li>Place, Date and signature</li>
+</ul>
+
+<p>2. Colour copies of visas of two or more neighbouring countries in your passport: country from which you are entering Turkmenistan, as well as a country you are going to from Turkmenistan;</p>
+
+<p>3. Colour copy of your passport;</p>
+
+<p>4. 1 (one) visa application form duly completed (to be downloaded at the web-site) with a glued photo.</p>
+
+<p>5. 1 (one) questionnaire with a glued photo (to be downloaded at the web-site); a space&nbsp;<em>«supervisor» </em>must be signed by an employer/Human Resources officer of the applicant).</p>
+
+<p>6. Passport (<strong>should be provided</strong>&nbsp;<strong>only</strong>&nbsp;<strong>after positive approval&nbsp;of your visa request</strong>)</p>
+
+<p><strong>BUSINESS AND GUEST VISAS:</strong></p>
+
+<p>Applicants, wishing to obtain business and guest visas, need to submit the same abovementioned documents. As for the invitation letter of the State Migration Service of Turkmenistan, this must be requested by the inviting company or physical person in Turkmenistan.</p>
+
+<p><strong>Payment:</strong></p>
+
+<p>Payment should be made <strong>in EURO</strong>. The visa fees are not refundable in case of failure to grant a visa.</p>
+
+<p>In cases where it is issued at the border, payment should be made there, and not to the Embassy.</p>
+
+<p>The Embassy accepts&nbsp;<strong>only a bank payment</strong>, no cash (<em>ask bank account details after your visa will be approved by e-mail</em>). When doing so, please indicate names and reason of money transfer.</p>
+
+            </div>
+        </div>`,
+            ru: `Процедура получения визы
+
+            ТУРИСТИЧЕСКАЯ ВИЗА
+            Чтобы запросить туристическую визу, заявителям предлагается обратиться в туристическое агентство в Италии или Туркменистане (список можно скачать на сайте). Последние помогают получить «Приглашение» от Государственной миграционной службы Туркменистана. Такое письмо служит основанием для выдачи Посольством визы.
+            Список документов для получения туристической визы:
+            1. Письмо-приглашение (упомянутое выше);
+            2. Письмо, адресованное посольству, содержащее следующую информацию: (написанное заявителем или его/ее туристическим представителем в Италии)
+            • Фамилия и имя;
+            • Контактные данные: номер телефона и адрес электронной почты;
+            • Точные даты прибытия и отъезда;
+            • Тип запроса: экспресс или несрочный (см. варианты оплаты).
+            3. Цветная копия паспорта;
+            4. 1 (одна) визовая анкета, заполненная надлежащим образом (скачать на сайте) с наклеенной фотографией.
+            1. 1 анкета с наклеенной фотографией (скачать на сайте; место «руководитель» должно быть подписано работодателем/сотрудником отдела кадров претендента).
+            2. При запросе визы на срок более 3 месяцев необходимо иметь при себе медицинскую справку о прохождении обследования на выявление вируса иммунодефицита человека (ВИЧ).
+            
+            ТРАНЗИТНАЯ ВИЗА
+            Список документов для получения транзитной визы
+            1. Письмо, адресованное посольству, содержащее следующую информацию: (написанное заявителем или его/ее туристическим представителем в Италии)
+            • Фамилия и имя;
+            • Контактные данные: номер телефона и адрес электронной почты;
+            • Точные даты прибытия и отъезда (максимум 5 дней для транзита, например, 10-14 апреля, а не 10-15 апреля).
+            • Подробный маршрут с указанием приграничных городов (точек въезда и выезда): например, Сарахс – Мары – Фарап)
+            • Тип запроса: экспресс или несрочный (см. варианты оплаты).
+            • Место, дата и подпись
+            2. В паспорте цветные копии виз двух и более соседних стран: страны, из которой вы въезжаете в Туркменистан, а также страны, в которую вы направляетесь из Туркменистана;
+            3. Цветная копия паспорта;
+            4. 1 (одну) визовую анкету, заполненную надлежащим образом (скачать на сайте) с наклеенной фотографией.
+            5. 1 (одна) анкета с наклеенной фотографией (скачать на сайте); место «руководитель» должно быть подписано работодателем/сотрудником отдела кадров заявителя).
+            6. Паспорт (должен быть предоставлен только после положительного одобрения вашего запроса на визу)
+            
+            БИЗНЕС И ГОСТЕВЫЕ ВИЗЫ:
+            Заявителям, желающим получить деловую и гостевую визу, необходимо предоставить одни и те же вышеупомянутые документы. Что касается письма-приглашения Государственной миграционной службы Туркменистана, то оно должно быть запрошено приглашающей компанией или физическим лицом в Туркменистане.
+            Оплата:
+            Оплата должна быть произведена в ЕВРО. Визовые сборы не возвращаются в случае отказа в выдаче визы.
+            В случаях, когда он выдается на границе, оплата должна производиться там, а не в Посольстве.
+            Посольство принимает только банковский платеж, а не наличные (уточните данные банковского счета после того, как ваша виза будет одобрена по электронной почте). При этом укажите имена и причину перевода денег.
+            `
         },
-        source_link: ""
+        source_link: "italy.tmembassy.gov.tm"
     },
     {
         id: 'malaysia',
@@ -1854,11 +2112,398 @@ Tranzit wizalary üçin zerur resminamalar:
             ru: "Малайзия"
         },
         content: {
-            tm: ``,
-            en:  ``,
-            ru: ``
+            tm: `Umumy maglumat we wiza talaplary
+            Türkmenistanyň ilçihanasynyň konsullyk bölümi wiza meselesi we resminamalaryň kanunlaşdyrylmagy üçin jogapkärdir.
+            
+            Konsullyk bölüminiň iş wagty
+            
+            Duşenbe: 9.00- 18.00
+            Sişenbe: 9.00- 18.00
+            Çarşenbe: 9.00- 18.00
+            Penşenbe: 9.00- 18.00
+            Juma: 9.00- 18.00
+            
+            Nahar wagty: 13: 00-14: 00
+            
+            
+            Malaýziýanyň ähli raýatlary Türkmenistana girmek üçin wiza almaly.
+            
+            WIZA BERMEK TERTIBI:
+            
+            
+            Aşakdaky görkezmeleri okaň. Wiza bilen baglanyşykly soraglar, anketalar we doldurylan anketalar Türkmenistanyň ilçihanasyna ugrukdyrylmaly:
+            
+            Türkmenistanyň Kuala-Lumpurdaky ilçihanasy
+            14 gat, Wisma Sin Heap Li,
+            346, Jalan Tun Razak
+            50400, Kuala-Lumpur, Malaýziýa
+            
+            ALhli ýüz tutanlar:
+            Wiza anketasy: 2013-nji ýylda Wiza anketasynyň Türkmenistanyň Kuala-Lumpurdaky ilçihanasyndan alyň ýa-da şu ýerden pdf-den göçürip alyň. Anketany doldurmazdan ozal görkezmeleri okaň. Wiza anketasyny bir nusgada, soňky pasport ölçegli suratlar bilen dolduryň. Suraty ştapel etmäň. Üpjünçilik seneleri gün-aý tertibi boýunça. Köne programma neşirleri ýa-da bukulan ýa-da başgaça ýaramazlaşan programma indi kabul edilmez.
+            
+            - Gol çekilen pasporty (giden senesinden azyndan 6 aý dowam edýär) 1-nji sahypasynyň göçürmesi (göterijiniň jikme-jikliklerini we goluny görkezýär), adaty harp ölçegli kagyzyň ýokarky bölegine dikligine ýerleşdirilen.
+            
+              - Ilçihanada wiza almak üçin asyl pasporty bolmaly.
+            - CASH-da pul iberiň - ABŞ dollary (Wizanyň bahasy meýilnamasy).
+            - Türkmenistanyň Döwlet Migrasiýa Gullugy tarapyndan tassyklanjak adamdan ýa-da kompaniýadan çakylyk hatyny iberiň.
+               Çakylyk tassyklanan gününden başlap diňe 3 (üç) aý dowam edýär.
+            - Syýahatçy hökmünde syýahat edýän bolsaňyz we Türkmenistanda hiç kim bilen duşuşmasaňyz, Türkmenistandaky islendik syýahatçylyk we syýahatçylyk agentliklerine ýa-da kompaniýalaryna ýüz tutuň. Mysal üçin "Türkmen Syýahat" Tel:
+              (993-12) 35-47-77, 39-86-91; Faks: (993-12) 39-67-40 ýa-da 39-00-65, 39-77-71. Şeýle hem, goşmaça maglumat we hyzmatlar üçin pdf-de Türkmenistanyň birnäçe syýahatçylyk agentliginiň sanawyny pdf-den göçürip alyp bilersiňiz.
+            - Türkmenistanda üç aý dowam etmek üçin wiza almak üçin ýüz tutýanlar we has köp resminama tabşyrylan gününden azyndan üç aýyň içinde lukmandan AIW / AIDS barada şahadatnama bermeli. Şahadatnama iňlis ýa-da rus dillerinde bolup biler ýa-da bu dilleriň birine kepillendirilen terjimesi bolup biler.
+            - aboveokarda sanalan talaplardan başga-da, Malaýziýanyň ýaşaýjylary IC-iň göçürmesini tabşyrmaly
+            
+            Barlag sanawy
+            
+            1-adam üçin wiza anketasy
+            2-aboveokarda görkezilişi ýaly pasport we onuň göçürmesi
+            Programma 3 sany pasport ölçegli surat
+            4-Türkmenistanyň ilçihanasyna tölenmeli pul
+            5-kepilnamaly çakylyk haty
+            
+            IŞ we  MYHMAN WIZASY:
+            
+            Iş we myhman wizalaryny almak isleýänler, ýokarda görkezilen resminamalary tabşyrmaly. Türkmenistanyň Döwlet Migrasiýa Gullugynyň çakylyk haty barada aýdylanda bolsa, muny Türkmenistanda çagyrýan kompaniýa ýa-da fiziki şahs talap etmeli.
+            
+             
+            
+            KONSULAR TÖLEGI
+            
+            Konsullyk tölegi resminamalaryň ilçihananyň konsullyk bölümine iberilen senesinde tölenmeli. Wiza ret edilen ýa-da ýatyrylan halatynda konsullyk tölegi yzyna gaýtarylyp bilinmez. Resminamalar berlen gününden başlap on senenama gününiň dowamynda wiza meselesi. Konsullyk tölegi diňe ilçihanadaky nagt pul bilen tölenmeli.
+            
+            Feesygymlar aşakdaky ýurtlar üçin üýtgeýär: Owganystan, Azerbaýjan, Belgiýa, Jorjiýa, Germaniýa, Gazagystan, Gyrgyzystan, Angliýa, Özbegistan we Täjigistan; öňünden barlaň.
+            
+            10 (on) iş gününiň dowamynda wiza meselesi:
+            
+            Entryeke giriş wizasy
+            
+              10 güne çenli - 35 ABŞ dollary
+            
+            20 güne çenli - 45 ABŞ dollary
+            
+            30 güne çenli - 55 ABŞ dollary
+            
+            2 aýa çenli - 85 ABŞ dollary
+            
+            3 aýa çenli - 115 ABŞ dollary
+            
+            4 aýa çenli - 145 ABŞ dollary
+            
+            5 aýa çenli - 175 ABŞ dollary
+            
+            6 aýa çenli - 205 ABŞ dollary
+            
+            Birnäçe giriş wizalary
+            
+            10 güne çenli - 75 ABŞ dollary
+            
+            20 güne çenli - 75 ABŞ dollary
+            
+            30 güne çenli - 75 ABŞ dollary
+            
+            2 aýa çenli - 115 ABŞ dollary
+            
+            3 aýa çenli - 155 ABŞ dollary
+            
+            4 aýa çenli - 195 ABŞ dollary
+            
+            5 aýa çenli - 235 ABŞ dollary
+            
+            6 aýa çenli - 275 ABŞ dollary
+            
+             
+            
+            Gyssagly wiza 3 (üç) iş gününiň dowamynda berilýär:
+            
+              Entryeke giriş wizasy
+            
+              10 güne çenli - 55 ABŞ dollary
+            
+            20 güne çenli - 75 ABŞ dollary
+            
+            30 güne çenli - 95 ABŞ dollary
+            
+            2 aýa çenli - 155 ABŞ dollary
+            
+            3 aýa çenli - 215 ABŞ dollary
+            
+            4 aýa - 275 ABŞ dollary
+            
+            5 aýa çenli - 335 ABŞ dollary
+            
+            6 aýa çenli - 395 ABŞ dollary
+            
+            Birnäçe giriş wizasy
+            
+            10 güne çenli - 135 ABŞ dollary
+            
+            20 güne çenli - 135 ABŞ dollary
+            
+            30 güne çenli - 135 ABŞ dollary
+            
+            2 aýa çenli - 215 ABŞ dollary
+            
+            3 aýa çenli - 295 ABŞ dollary
+            
+            4 aýa çenli - 375 ABŞ dollary
+            
+            5 aýa çenli - 455 ABŞ dollary
+            
+            6 aýa çenli - 535 ABŞ dollary
+            
+            Konsullyk tölegi bolmazdan 7 ýaşa çenli çagalar üçin wiza meselesi diňe stiker we hyzmatlaryň bahasy 15 ABŞ dollary.
+            
+            Wiza anketasy bilen baglanyşykly soraglara berlen jogaplaryň berlen wizada öz beýanyny tapjakdygyny we Türkmenistanda asyl resminamalarynda görkezilenlere laýyk gelmelidigini ýadyňyzdan çykarmaň.
+            
+            
+            `,
+            en: `<div class="col-sm-6 px-4">
+            <h5 class="main-title semi-bold fs-3">General Information &amp; Visa Requirements</h5>
+            <div class="text-links text-justify fs-4 overflow-auto">
+                                        <p>The consular section of the Embassy of Turkmenistan is responsible for the visa issue and legalization of documents.&nbsp;<br>
+<br>
+Business hours of the consular section<br>
+<br>
+Monday: &nbsp; &nbsp; 9.00- 18.00<br>
+Tuesday: &nbsp; &nbsp; 9.00- 18.00<br>
+Wednesday: &nbsp;9.00- 18.00<br>
+Thursday: &nbsp; &nbsp; 9.00- 18.00<br>
+Friday: &nbsp; &nbsp; &nbsp; &nbsp; 9.00- 18.00</p>
+
+<p>Lunch time : 13:00-14:00</p>
+
+<p><br>
+All Malaysian citizens must obtain a visa to enter Turkmenistan.<br>
+<br>
+PROCEDURE FOR OBTAINING A VISA:<br>
+<br>
+<br>
+Please, read the following directions below. Questions regarding visas, requests for applications, and completed applications should be directed to the Embassy of Turkmenistan:<br>
+<br>
+The Embassy of Turkmenistan in Kuala Lumpur<br>
+14 Floor, Wisma Sin Heap Lee,&nbsp;<br>
+346, Jalan Tun Razak<br>
+50400, Kuala Lumpur, Malaysia&nbsp;<br>
+<br>
+ALL APPLICANTS:<br>
+Visa Application Form:&nbsp;Obtain a 2013 edition of Visa Application Form from the Embassy of Turkmenistan in Kuala Lumpur, or download it from here in pdf.&nbsp;Before completing application please read instructions. Please, fill in the Visa Application Form in one copy with recent passport size photos glued to form. Do not staple picture. Supply dates in the order of&nbsp;day-month-year. Old application editions or application folded or otherwise deteriorated will no longer be accepted.<br>
+<br>
+- Submit a signed passport (valid for at least 6 months from the date of departure) along with a copy of its 1st page (showing bearer's details and signature), arranged vertically into the upper part of a standard Letter Size paper.<br>
+<br>
+&nbsp;- The Embassy must have the original passport to process a visa.&nbsp;<br>
+- Submit a money in CASH - US dollars (Visa Cost Schedule).&nbsp;<br>
+- Submit a letter of invitation from the person or company to be visited certified by the State Migration Service of Turkmenistan.<br>
+&nbsp; The invitation is valid only for 3 (three) months from the date it was confirmed.<br>
+- If you are traveling as a tourist and will not be meeting anyone in Turkmenistan, you must contact any of travel and tourism agencies or companies in Turkmenistan. E.g. "Turkmen Syyahat" Tel:<br>
+&nbsp;(993-12) 35-47-77, 39-86-91; Fax:&nbsp;(993-12) 39-67-40 or 39-00-65, 39-77-71. You can also download&nbsp;a list of few travel agencies of&nbsp;Turkmenistan&nbsp;here in pdf&nbsp;for additional information and services &nbsp;available.&nbsp;<br>
+- For applicants applying for visa to stay in Turkmenistan for the period extending three months and more need to submit an original HIV/AIDS certificate from the doctor issued at least within last three &nbsp; &nbsp;months before the date of application. The certificate could be in English or&nbsp;Russian languages or have&nbsp;a certified translation to one of these languages.<br>
+- In addition to the requirements listed above, residents of Malaysia must submit a copy of their IC</p>
+
+<p>Checklist</p>
+
+<p>1-Visa Application per person<br>
+2-Passport and its copy as described above&nbsp;<br>
+3-passport size photo glued to the Application&nbsp;<br>
+4-Cash payable to the Embassy of Turkmenistan&nbsp;<br>
+5-Certified letter of invitation&nbsp;</p>
+
+<p><strong>BUSINESS AND GUEST VISAS:</strong></p>
+
+<p>Applicants, wishing to obtain business and guest visas, need to submit the same abovementioned documents. As for the invitation letter of the State Migration Service of Turkmenistan, this must be requested by the inviting company or physical person in Turkmenistan.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>CONSULAR FEE</strong></p>
+
+<p>Consular fee need to be paid at the date of submission of the documents to the Consular Section of the Embassy. In case of refusal or cancellation of the visa, the consular fee can’t be returned. Visa issues within ten calendar days from the date of submission of documents. Consular fee must be paid only in USD by cash at the Embassy.</p>
+
+<p><strong>Fees vary for the following countries</strong>: Afghanistan, Azerbaijan, Belgium, Georgia, Germany, Kazakhstan, Kyrgyzstan, United Kingdom, Uzbekistan and Tajikistan; <strong>please make prior check.</strong></p>
+
+<p><strong>Visa issues within 10 (ten) business days:</strong></p>
+
+<p><strong>A single entry visa</strong></p>
+
+<p><strong>&nbsp;</strong>Up to 10 days - 35 USD</p>
+
+<p>Up to 20 days - 45 USD</p>
+
+<p>Up to 30 days - 55 USD</p>
+
+<p>Up to 2 months - 85 USD</p>
+
+<p>Up to 3 months - 115 USD</p>
+
+<p>Up to 4 months - 145 USD</p>
+
+<p>Up to 5 months - 175 USD</p>
+
+<p>Up to 6 months - 205 USD</p>
+
+<p><strong>Multiple entry visas</strong></p>
+
+<p>Up to 10 days - 75 USD</p>
+
+<p>Up to 20 days - 75 USD</p>
+
+<p>Up to 30 days - 75 USD</p>
+
+<p>Up to 2 months - 115 USD</p>
+
+<p>Up to 3 months - 155 USD</p>
+
+<p>Up to 4 months - 195 USD</p>
+
+<p>Up to 5 months - 235 USD</p>
+
+<p>Up to 6 months - 275 USD</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Emergency visa is issued within 3 (three)&nbsp;business days:</strong></p>
+
+<p><strong>&nbsp;A single entry visa</strong></p>
+
+<p><strong>&nbsp;</strong>Up to 10 days - 55 USD</p>
+
+<p>Up to 20 days - 75 USD</p>
+
+<p>Up to 30 days - 95 USD</p>
+
+<p>Up to 2 months - 155 USD</p>
+
+<p>Up to 3 months - 215 USD</p>
+
+<p>To 4 months - 275 USD</p>
+
+<p>Up to 5 months - 335 USD</p>
+
+<p>Up to 6 months - 395 USD</p>
+
+<p><strong>Multiple entry visa</strong></p>
+
+<p>Up to 10 days - 135 USD</p>
+
+<p>Up to 20 days - 135 USD</p>
+
+<p>Up to 30 days - 135 USD</p>
+
+<p>Up to 2 months - 215 USD</p>
+
+<p>Up to 3 months - 295 USD</p>
+
+<p>Up to 4 months - 375 USD</p>
+
+<p>Up to 5 months - 455 USD</p>
+
+<p>Up to 6 months - 535 USD</p>
+
+<p>For children aged up to 7 years visa issues without consular fees, only payment is for sticker and the cost of services, which is 15 USD.</p>
+
+<p>&nbsp;</p>
+
+<p>Please, note that the answers to questions on the visa application will be reflected in the issued visa and should match those submitted in original documentation in Turkmenistan.</p>
+
+            </div>
+        </div>`,
+            ru: `Общая информация и визовые требования
+            Консульский отдел Посольства Туркменистана отвечает за выдачу виз и легализацию документов.
+            
+            Режим работы консульского отдела
+            
+            Понедельник: 9.00- 18.00
+            Вторник: 9.00- 18.00
+            Среда: 9.00- 18.00
+            Четверг: 9.00- 18.00
+            Пятница: 9.00- 18.00
+            Обед: 13:00-14:00.
+            
+            Все граждане Малайзии должны получить визу для въезда в Туркменистан.
+            
+            ПОРЯДОК ПОЛУЧЕНИЯ ВИЗЫ:
+            
+            
+            Пожалуйста, прочитайте следующие указания ниже. Вопросы относительно виз, запросов на подачу заявлений и заполненных заявлений следует направлять в Посольство Туркменистана:
+            
+            Посольство Туркменистана в Куала-Лумпуре
+            14 этаж, Висма Син Хип Ли,
+            346, Джалан Тун Разак
+            50400, Куала-Лумпур, Малайзия
+            
+            ВСЕ ЗАЯВИТЕЛИ:
+            Форма заявления на получение визы: Получите форму заявления на получение визы 2013 года в посольстве Туркменистана в Куала-Лумпуре или загрузите ее здесь в формате pdf. Прежде чем заполнять заявку, пожалуйста, прочтите инструкцию. Пожалуйста, заполните визовую форму в одном экземпляре, приклеив к форме последние фотографии паспортного размера. Не скрепляйте картинку. Сроки поставки в порядке день-месяц-год. Старые версии приложений, а также приложения, сложенные или иным образом испорченные, больше не принимаются.
+            
+            - Предоставьте подписанный паспорт (действительный не менее 6 месяцев с даты отъезда) вместе с копией его первой страницы (с указанием данных предъявителя и подписи), расположенной вертикально в верхней части стандартного листа бумаги формата Letter.
+            
+            
+            - Для оформления визы в посольстве должен быть оригинал паспорта.
+            - Отправьте деньги НАЛИЧНЫМИ - доллары США (Таблица стоимости визы).
+            - Предоставить письмо-приглашение от лица или компании, которое необходимо посетить, заверенное Государственной миграционной службой Туркменистана.
+               Приглашение действительно в течение 3 (трех) месяцев с момента его подтверждения.
+            - Если вы путешествуете как турист и не собираетесь ни с кем встречаться в Туркменистане, вам необходимо обратиться в любое туристическое агентство или компанию в Туркменистане. Например. «Туркмен Сыяхат» Тел.:
+              (993-12) 35-47-77, 39-86-91; Факс: (993-12) 39-67-40 или 39-00-65, 39-77-71. Вы также можете скачать список нескольких туристических агентств Туркменистана здесь в формате pdf для получения дополнительной информации и доступных услуг.
+            - Заявителям, подающим заявление на получение визы для пребывания в Туркменистане на срок, превышающий три месяца и более, необходимо предоставить оригинал справки о ВИЧ/СПИДе от врача, выданной не менее чем за последние три месяца до даты подачи заявления. Сертификат может быть на английском или русском языках или иметь заверенный перевод на один из этих языков.
+            - В дополнение к требованиям, перечисленным выше, жители Малайзии должны предоставить копию своего IC.
+            
+            Контрольный список
+            1-заявление на получение визы на человека
+            2-Паспорт и его копия, как описано выше.
+            Фотография паспортного размера 3, приклеенная к заявлению.
+            4-Наличными к оплате в посольство Туркменистана
+            5-Заверенное письмо-приглашение
+            БИЗНЕС И ГОСТЕВЫЕ ВИЗЫ:
+            Заявителям, желающим получить деловую и гостевую визу, необходимо предоставить одни и те же вышеупомянутые документы. Что касается письма-приглашения Государственной миграционной службы Туркменистана, то оно должно быть запрошено приглашающей компанией или физическим лицом в Туркменистане.
+             
+            КОНСУЛЬСКИЙ СБОР
+            Консульский сбор необходимо оплатить в день подачи документов в Консульский отдел Посольства. В случае отказа или аннулирования визы консульский сбор не возвращается. Виза выдается в течение десяти календарных дней со дня подачи документов. Консульский сбор должен быть оплачен только в долларах США наличными в Посольстве.
+            Сборы различаются для следующих стран: Афганистан, Азербайджан, Бельгия, Грузия, Германия, Казахстан, Кыргызстан, Великобритания, Узбекистан и Таджикистан; пожалуйста, сделайте предварительную проверку.
+            
+            Оформление визы в течение 10 (десяти) рабочих дней:
+            
+            Однократная виза
+            До 10 дней - 35 долларов США
+            До 20 дней - 45 долларов США
+            До 30 дней - 55 долларов США
+            До 2 месяцев - 85 долларов США
+            До 3 месяцев - 115 долларов США
+            До 4 месяцев - 145 долларов США
+            До 5 месяцев - 175 долларов США
+            До 6 месяцев - 205 долларов США
+            
+            Многократные визы
+            До 10 дней - 75 долларов США
+            До 20 дней - 75 долларов США
+            До 30 дней - 75 долларов США
+            До 2 месяцев - 115 долларов США
+            До 3 месяцев - 155 долларов США
+            До 4 месяцев - 195 долларов США
+            До 5 месяцев - 235 долларов США
+            До 6 месяцев - 275 долларов США
+             
+            Экстренная виза выдается в течение 3 (трех) рабочих дней:
+            
+            Однократная виза
+            До 10 дней - 55 долларов США
+            До 20 дней - 75 долларов США
+            До 30 дней - 95 долларов США
+            До 2 месяцев - 155 долларов США
+            До 3 месяцев - 215 долларов США
+            До 4 месяцев - 275 долларов США
+            До 5 месяцев - 335 долларов США
+            До 6 месяцев - 395 долларов США
+            Многократная виза
+            До 10 дней - 135 долларов США
+            До 20 дней - 135 долларов США
+            До 30 дней - 135 долларов США
+            До 2 месяцев - 215 долларов США
+            До 3 месяцев - 295 долларов США
+            До 4 месяцев - 375 долларов США
+            До 5 месяцев - 455 долларов США
+            До 6 месяцев - 535 долларов США
+            Детям до 7 лет виза оформляется без консульского сбора, оплата производится только за наклейку и стоимость услуги, которая составляет 15 долларов США.
+             
+            Обратите внимание, что ответы на вопросы по заявлению на получение визы будут отражены в выдаваемой визе и должны совпадать с ответами, представленными в оригинале документации в Туркменистане.
+            `
         },
-        source_link: ""
+        source_link: "malaysia.tmembassy.gov.tm"
     },
     {
         id: 'saudi-arabia',
@@ -1868,11 +2513,174 @@ Tranzit wizalary üçin zerur resminamalar:
             ru: "Саудовская Аравия"
         },
         content: {
-            tm: ``,
-            en:  ``,
-            ru: ``
+            tm: `Türkmenistanyň ilçihanasynyň konsullyk bölümi wiza meselesi we resminamalaryň kanunlaşdyrylmagy üçin jogapkärdir.
+            Konsullyk bölüminiň iş wagty
+            
+            Sundayekşenbe: 9.00- 18.00
+            
+            Duşenbe: 9.00- 18.00
+            
+            Sişenbe: 9.00- 18.00
+            
+            Çarşenbe: 9.00- 18.00
+            
+            Penşenbe: 9.00- 18.00
+            
+            Nahar wagty: 13: 00-14: 00
+            
+            
+            Saud Arabystanynyň ähli raýatlary Türkmenistana girmek üçin wiza almaly.
+            
+            WIZA BERMEK TERTIBI:
+            
+            Aşakdaky görkezmeleri okaň. Wiza bilen baglanyşykly soraglar, anketalar we doldurylan anketalar Türkmenistanyň ilçihanasyna ugrukdyrylmaly:
+            
+            ALhli ýüz tutanlar:
+            Wiza üçin anketa: Türkmenistanyň Riýaddaky ilçihanasyndan 2013-nji ýyldaky wiza anketasyny alyň ýa-da şu ýerden pdf-den göçürip alyň. Anketany doldurmazdan ozal görkezmeleri okaň. Wiza anketasyny bir nusgada, soňky pasport ölçegli suratlar bilen dolduryň. Suraty ştapel etmäň. Üpjünçilik seneleri gün-aý tertibi boýunça. Köne programma neşirleri ýa-da bukulan ýa-da başgaça ýaramazlaşan programma indi kabul edilmez.
+            
+            - Gol çekilen pasporty (giden senesinden azyndan 6 aý dowam edýär) 1-nji sahypasynyň göçürmesi (göterijiniň jikme-jikliklerini we goluny görkezýär), adaty harp ölçegli kagyzyň ýokarky bölegine dikligine ýerleşdirilen.
+            
+              - Ilçihanada wiza almak üçin asyl pasporty bolmaly.
+            
+            - CASH-da pul iberiň - ABŞ dollary (Wizanyň bahasy meýilnamasy).
+            
+            - Türkmenistanyň Döwlet Migrasiýa Gullugy tarapyndan tassyklanjak adamdan ýa-da kompaniýadan çakylyk hatyny iberiň. Çakylyk tassyklanan gününden başlap diňe 3 (üç) aý dowam edýär.
+            
+            - Syýahatçy hökmünde syýahat edýän bolsaňyz we Türkmenistanda hiç kim bilen duşuşmasaňyz, Türkmenistandaky islendik syýahatçylyk we syýahatçylyk agentliklerine ýa-da kompaniýalaryna ýüz tutuň. Şeýle hem, goşmaça maglumat we hyzmatlar üçin pdf-de Türkmenistanyň birnäçe syýahatçylyk agentliginiň sanawyny pdf-den göçürip alyp bilersiňiz.
+            
+            - Türkmenistanda üç aý dowam etmek üçin wiza almak üçin ýüz tutýanlar we has köp resminama tabşyrylan gününden azyndan üç aýyň içinde lukmandan AIW / AIDS barada şahadatnama bermeli. Şahadatnama iňlis we rus dillerinde bolup biler ýa-da bu dilleriň birine kepillendirilen terjimesi bolup biler.
+            
+            - aboveokarda sanalan talaplardan başga-da, Saud Arabystanynyň ýaşaýjylary şahsyýetnamasynyň göçürmesini tabşyrmaly
+            
+            Barlag sanawy
+            
+            1-adam üçin wiza anketasy
+            
+            2-aboveokarda görkezilişi ýaly pasport we onuň göçürmesi
+            
+            Programma 3 sany pasport ölçegli surat
+            
+            4-Türkmenistanyň ilçihanasyna tölenmeli pul
+            
+            5-kepilnamaly çakylyk haty
+             
+            
+            IŞ WE MYHMAN WIZALARY:
+            
+            Iş we myhman wizalaryny almak isleýänler, ýokarda görkezilen resminamalary tabşyrmaly. Türkmenistanyň Döwlet Migrasiýa Gullugynyň çakylyk haty barada aýdylanda bolsa, muny Türkmenistanda çagyrýan kompaniýa ýa-da fiziki şahs talap etmeli.
+            
+            Wiza anketasy bilen baglanyşykly soraglara berlen jogaplaryň berlen wizada öz beýanyny tapjakdygyny we Türkmenistanda asyl resminamalarynda görkezilenlere laýyk gelmelidigini ýadyňyzdan çykarmaň.`,
+            en: `<div class="col-sm-6 px-4">
+            <h5 class="main-title semi-bold fs-3">The consular section of the Embassy of Turkmenistan is responsible for the visa issue and legalization of documents. </h5>
+            <div class="text-links text-justify fs-4 overflow-auto">
+                                        <p>Business hours of the consular section</p>
+
+<p>Sunday: &nbsp; &nbsp; &nbsp;9.00- 18.00</p>
+
+<p>Monday: &nbsp; &nbsp; 9.00- 18.00</p>
+
+<p>Tuesday: &nbsp; &nbsp; 9.00- 18.00</p>
+
+<p>Wednesday: &nbsp;9.00- 18.00</p>
+
+<p>Thursday: &nbsp; &nbsp; 9.00- 18.00</p>
+
+<p>Lunch time : 13:00-14:00</p>
+
+<p><br>
+All Saudi Arabian citizens must obtain a visa to enter Turkmenistan.<br>
+<br>
+PROCEDURE FOR OBTAINING A VISA:<br>
+<br>
+Please, read the following directions below. Questions regarding visas, requests for applications, and completed applications should be directed to the Embassy of Turkmenistan:<br>
+<br>
+ALL APPLICANTS:<br>
+Visa Application Form:&nbsp;Obtain a 2013 edition of Visa Application Form from the Embassy of Turkmenistan in Riyadh, or download it from here in pdf.<strong>&nbsp;</strong>&nbsp;Before completing application please read instructions. Please, fill in the Visa Application Form in one copy with recent passport size photos glued to form. Do not staple picture. Supply dates in the order of&nbsp;day-month-year. Old application editions or application folded or otherwise deteriorated will no longer be accepted.<br>
+<br>
+- Submit a signed passport (valid for at least 6 months from the date of departure) along with a copy of its 1st page (showing bearer's details and signature), arranged vertically into the upper part of a standard Letter Size paper.<br>
+<br>
+&nbsp;- The Embassy must have the original passport to process a visa.&nbsp;<br>
+<br>
+- Submit a money in CASH - US dollars (Visa Cost Schedule).&nbsp;<br>
+<br>
+- Submit a letter of invitation from the person or company to be visited certified by the State Migration Service of Turkmenistan. The invitation is valid only for 3 (three) months from the date it was confirmed.</p>
+
+<p>- If you are traveling as a tourist and will not be meeting anyone in Turkmenistan, you must contact any of travel and tourism agencies or companies in Turkmenistan. You can also download&nbsp;a list of few travel agencies of&nbsp;Turkmenistan&nbsp;here in pdf&nbsp;for additional information and services available.&nbsp;<br>
+<br>
+- For applicants applying for visa to stay in Turkmenistan for the period extending three months and more need to submit an original HIV/AIDS certificate from the doctor issued at least within last three months before the date of application. The certificate could be in English and Russian languages or have&nbsp;a certified translation to one of these languages.<br>
+<br>
+- In addition to the requirements listed above, residents of Saudi Arabia must submit a copy of their ID Card<br>
+<br>
+Checklist<br>
+<br>
+1-Visa Application per person<br>
+<br>
+2-Passport and its copy as described above&nbsp;<br>
+<br>
+3-passport size photo glued to the Application&nbsp;<br>
+<br>
+4-Cash payable to the Embassy of Turkmenistan&nbsp;<br>
+<br>
+5-Certified letter of invitation&nbsp;<br>
+&nbsp;</p>
+
+<p><strong>BUSINESS AND GUEST VISAS:</strong></p>
+
+<p>Applicants, wishing to obtain business and guest visas, need to submit the same abovementioned documents. As for the invitation letter of the State Migration Service of Turkmenistan, this must be requested by the inviting company or physical person in Turkmenistan.</p>
+
+<p>Please, note that the answers to questions on the visa application will be reflected in the issued visa and should match those submitted in original documentation in Turkmenistan.</p>
+
+            </div>
+        </div>`,
+            ru: `Консульский отдел Посольства Туркменистана отвечает за выдачу виз и легализацию документов.
+            Режим работы консульского отдела
+            Воскресенье: 9.00- 18.00
+            Понедельник: 9.00- 18.00
+            Вторник: 9.00- 18.00
+            Среда: 9.00- 18.00
+            Четверг: 9.00- 18.00
+            Обед: 13:00-14:00.
+            
+            Все граждане Саудовской Аравии должны получить визу для въезда в Туркменистан.
+            
+            ПОРЯДОК ПОЛУЧЕНИЯ ВИЗЫ:
+            
+            Пожалуйста, прочитайте следующие указания ниже. Вопросы относительно виз, запросов на подачу заявлений и заполненных заявлений следует направлять в Посольство Туркменистана:
+            
+            ВСЕ ЗАЯВИТЕЛИ:
+            Форма заявления на визу: Получите форму заявления на получение визы 2013 года в посольстве Туркменистана в Эр-Рияде или загрузите ее здесь в формате pdf. Прежде чем заполнять заявку, пожалуйста, прочтите инструкцию. Пожалуйста, заполните визовую форму в одном экземпляре, приклеив к форме последние фотографии паспортного размера. Не скрепляйте картинку. Сроки поставки в порядке день-месяц-год. Старые версии приложений, а также приложения, сложенные или иным образом испорченные, больше не принимаются.
+            
+            - Предоставьте подписанный паспорт (действительный не менее 6 месяцев с даты отъезда) вместе с копией его первой страницы (с указанием данных предъявителя и подписи), расположенной вертикально в верхней части стандартного листа бумаги формата Letter.
+            
+              - Для оформления визы в посольстве должен быть оригинал паспорта.
+            
+            - Отправьте деньги НАЛИЧНЫМИ - доллары США (Таблица стоимости визы).
+            
+            - Предоставить письмо-приглашение от лица или компании, которое необходимо посетить, заверенное Государственной миграционной службой Туркменистана. Приглашение действительно в течение 3 (трех) месяцев с момента его подтверждения.
+            - Если вы путешествуете как турист и не собираетесь ни с кем встречаться в Туркменистане, вам необходимо обратиться в любое туристическое агентство или компанию в Туркменистане. Вы также можете скачать список нескольких туристических агентств Туркменистана здесь в формате pdf для получения дополнительной информации и доступных услуг.
+            
+            - Заявителям, подающим заявление на получение визы для пребывания в Туркменистане на срок, превышающий три месяца и более, необходимо предоставить оригинал справки о ВИЧ/СПИДе от врача, выданной не менее чем за последние три месяца до даты подачи заявления. Сертификат может быть на английском и русском языках или иметь заверенный перевод на один из этих языков.
+            
+            - В дополнение к перечисленным выше требованиям жители Саудовской Аравии должны предоставить копию своего удостоверения личности.
+            
+            Контрольный список
+            
+            1-заявление на получение визы на человека
+            
+            2-Паспорт и его копия, как описано выше.
+            
+            Фотография паспортного размера 3, приклеенная к заявлению.
+            
+            4-Наличными к оплате в посольство Туркменистана
+            
+            5-Заверенное письмо-приглашение
+             
+            БИЗНЕС И ГОСТЕВЫЕ ВИЗЫ:
+            Заявителям, желающим получить деловую и гостевую визу, необходимо предоставить одни и те же вышеупомянутые документы. Что касается письма-приглашения Государственной миграционной службы Туркменистана, то оно должно быть запрошено приглашающей компанией или физическим лицом в Туркменистане.
+            Обратите внимание, что ответы на вопросы по заявлению на получение визы будут отражены в выдаваемой визе и должны совпадать с ответами, представленными в оригинале документации в Туркменистане.
+            `
         },
-        source_link: ""
+        source_link: "saudi.tmembassy.gov.tm"
     },
 
 ]
