@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom'
 import countriesJson from '../../public/json/countries.json'
 import { useTranslation } from "react-i18next";
@@ -5,6 +6,21 @@ import LazyLoadedImage from '../components/LazyLoadImage'
 
 
 const Homepage = () => {
+
+    useEffect(() => {
+        const preventContextMenu = (e) => {
+          e.preventDefault();
+        };
+    
+        document.addEventListener('contextmenu', preventContextMenu);
+    
+        return () => {
+          document.removeEventListener('contextmenu', preventContextMenu);
+        };
+      }, []);
+    
+
+      
 
 
     const { i18n, t } = useTranslation()
